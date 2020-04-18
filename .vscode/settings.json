@@ -1,0 +1,7 @@
+{
+    "azureFunctions.deploySubpath": "target/azure-functions/mediumfileapp-20200417000258991",
+    "azureFunctions.projectLanguage": "Java",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "package"
+}
